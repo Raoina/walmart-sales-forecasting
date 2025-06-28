@@ -96,7 +96,7 @@ Or run on Google Colab using `ngrok` (instructions in notebook)
 
 ## 📎 Files
 
-- `Final_Enhanced_Time_Series_Project.ipynb` → Main analysis notebook
+- `Final_Project.ipynb` → Main analysis notebook
 - `app_forecast_from_history.py` → Final Streamlit app
 - `random_forest_model.joblib` → Best trained model
 - `scaler_X.joblib` + `scaler_y.joblib` → Required scalers for deployment
